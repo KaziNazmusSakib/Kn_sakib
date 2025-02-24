@@ -36,6 +36,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazinazmussakib&show_icons=true&locale=en&layout=compact" alt="kazinazmussakib" /></p>
 
+  
+<h2 id="sponsors">Sponsors</h2>
+</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
+</a> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazinazmussakib&show_icons=true&locale=en" alt="kazinazmussakib" /></p>
+
+<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazinazmussakib&" alt="kazinazmussakib" /></p>
