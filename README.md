@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazinazmussakib" alt="kazinazmussakib" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@nazmus53680kazi" target="blank"><img src="https://img.shields.io/twitter/follow/@nazmus53680kazi?logo=twitter&style=for-the-badge" alt="@nazmus53680kazi" /></a> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on [rock vs mine prediction](https://colab.research.google.com/drive/11A1SIk9yMO5n-DJbToGBMXSnQ4YkHCAV)
 
